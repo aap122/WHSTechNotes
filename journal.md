@@ -8,15 +8,5 @@ The speed sensor lets you control how fast you are going.The speed will maintain
 
 # September 10,2024
 example
-
-# September 11,2024
-
-# September 12,2024 
-
-# September 13,2024
-
-# September 14,2024
-
-# September 15,2024
-
-# September 16,2024
+# September 20,2024 
+Code of combat assignment
