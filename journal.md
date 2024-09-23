@@ -5,6 +5,9 @@ Today, I created my first GitHub account and repository
 speed sensor.
 The speed sensor lets you control how fast you are going.The speed will maintain in any direction if controlled there.
 
+# September 9, 2024 
+The instructions were clear.The instructions were easy to follow because they were open on a seperate tab.
+
 # September 10, 2024
 example
 
