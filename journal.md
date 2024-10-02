@@ -19,3 +19,16 @@ This is a free week.
 
 # September 20, 2024 
 Code of combat assignment
+
+ # September 24, 2024
+visual introduction to python
+
+ # September 25, 2024
+ The errors in programming can occur if the code is not exactly perfect 
+
+ # September 30, 2024
+ Khan academy
+ everyday I use the computer in 6th period so I can do the assignments and pass the class.
+
+
+ 
