@@ -30,5 +30,5 @@ visual introduction to python
  Khan academy
  everyday I use the computer in 6th period so I can do the assignments and pass the class.
 
-
- 
+# October 15, 2024 
+you can break things down into smaller steps,Coding teaches problem-solving skills, critical thinking, creativity, and persistence. These skills also prepare you for jobs outside of tech, such as healthcare, finance, and marketing.One of the most significant ways coding fosters creativity is by encouraging children to experiment with different ideas and approaches.
