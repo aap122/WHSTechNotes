@@ -32,3 +32,8 @@ visual introduction to python
 
 # October 15, 2024 
 you can break things down into smaller steps,Coding teaches problem-solving skills, critical thinking, creativity, and persistence. These skills also prepare you for jobs outside of tech, such as healthcare, finance, and marketing.One of the most significant ways coding fosters creativity is by encouraging children to experiment with different ideas and approaches.
+
+
+# October 25, 2024
+AI significantly boosts efficiency and productivity by optimizing processes and reducing the time and resources required to complete tasks. AI systems can analyze data, predict outcomes, and suggest improvements, allowing businesses to streamline operations and eliminate bottlenecks. 
+Bad actors can exploit AI to launch cyberattacks. They manipulate AI tools to clone voices, generate fake identities and create convincing phishing emails—all with the intent to scam, hack, steal a person's identity or compromise their privacy and security
