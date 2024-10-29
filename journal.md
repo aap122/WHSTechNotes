@@ -41,3 +41,6 @@ Bad actors can exploit AI to launch cyberattacks. They manipulate AI tools to cl
 
 # October 25, 2024
 Finishing 1.3 , completed 1.1 | 1.2
+
+# October 28, 2024
+Users simply click the link, are automatically authenticated and allowed into the online voting system to cast their secure ballot , makes for simpler voting.
