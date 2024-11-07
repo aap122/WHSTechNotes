@@ -44,3 +44,6 @@ Finishing 1.3 , completed 1.1 | 1.2
 
 # October 28, 2024
 Users simply click the link, are automatically authenticated and allowed into the online voting system to cast their secure ballot , makes for simpler voting.
+
+# November 4, 2024 
+Internet privacy is important because it gives you control over your identity and personal information. Without that control, anyone with the intention and means can manipulate your identity to serve their goals, whether it is selling you a more expensive vacation or stealing your savings. You can ensure your own privacy online by using encryption, VPN networks, Tor, incognito mode, etc...
