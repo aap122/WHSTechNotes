@@ -47,3 +47,7 @@ Users simply click the link, are automatically authenticated and allowed into th
 
 # November 4, 2024 
 Internet privacy is important because it gives you control over your identity and personal information. Without that control, anyone with the intention and means can manipulate your identity to serve their goals, whether it is selling you a more expensive vacation or stealing your savings. You can ensure your own privacy online by using encryption, VPN networks, Tor, incognito mode, etc...
+
+
+# November 12, 2024 
+Access to learning opportunities today is unprecedented in scope thanks to technology. Opportunities for communication and collaboration have also been expanded by technology. Traditionally, classrooms have been relatively isolated, and collaboration has been limited to other students in the same classroom or building.
