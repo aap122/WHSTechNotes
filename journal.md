@@ -51,3 +51,8 @@ Internet privacy is important because it gives you control over your identity an
 
 # November 12, 2024 
 Access to learning opportunities today is unprecedented in scope thanks to technology. Opportunities for communication and collaboration have also been expanded by technology. Traditionally, classrooms have been relatively isolated, and collaboration has been limited to other students in the same classroom or building.
+
+
+# November 18, 2024 
+technology has developed automated machines to grow, plant and harvest crops. Because of this, it helped farmers to produce more food with less labor.
+ While automation may reduce the labor and agrochemical costs of food production and processing, it may increase energy costs.
