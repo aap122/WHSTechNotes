@@ -59,3 +59,10 @@ technology has developed automated machines to grow, plant and harvest crops. Be
 
 # December 2, 2024 
 In education, AI customizes learning experiences, engages students interactively, and facilitates real-time language translation. In transportation, AI contributes to the development of self-driving cars and optimizes traffic management, potentially leading to safer and more efficient travel.
+
+# December 9, 2024
+the supposed deterioration of a person's mental or intellectual state, especially viewed as the result of overconsumption of material
+
+# December 16, 2024
+Yes i am ready for winter break
+
