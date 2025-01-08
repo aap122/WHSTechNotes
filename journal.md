@@ -66,3 +66,6 @@ the supposed deterioration of a person's mental or intellectual state, especiall
 # December 16, 2024
 Yes i am ready for winter break
 
+# January 8, 2025
+i liked that some of the assignments were games.
+I wouldn't like to explore much 
