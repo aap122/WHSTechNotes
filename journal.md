@@ -69,3 +69,6 @@ Yes i am ready for winter break
 # January 8, 2025
 i liked that some of the assignments were games.
 I wouldn't like to explore much 
+
+# January 13, 2025
+i think the tech industry's shift towards AI sparks innovation, efficiency, and concern for job displacement and social inequalities.
